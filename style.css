@@ -147,6 +147,7 @@ p{
     padding: 20px 40px;
     width: 40%;
     box-sizing: border-box;
+    border-radius: 5%;
     box-shadow: 10px 10px 10px 10px rgb(163, 161, 161); 
 }
 
